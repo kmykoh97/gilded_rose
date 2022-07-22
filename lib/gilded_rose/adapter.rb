@@ -31,5 +31,6 @@ class GildedRose
     when :conjured
       Conjured.new.update(item)
     end
+    # just pass for :sulfuras as no change needed
   end
 end
