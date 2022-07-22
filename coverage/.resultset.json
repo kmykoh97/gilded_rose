@@ -1,0 +1,49 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/my/Desktop/cg/glidedrose/spec/item_spec.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/my/Desktop/cg/glidedrose/lib/item.rb": {
+        "lines": [
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          27,
+          27,
+          27,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          116,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1658485747
+  }
+}
